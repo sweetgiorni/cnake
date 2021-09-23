@@ -1,0 +1,5 @@
+build
+.cache
+py/cnake/_cnake.so
+*.pyc
+snake.egg-info
