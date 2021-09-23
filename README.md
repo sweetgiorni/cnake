@@ -16,3 +16,12 @@ Install dependencies:
 Build:
 
 `mkdir build && cd build && cmake -G Ninja .. && ninja`
+
+# Running Python scripts
+
+```
+cd py
+pip install -e .
+cd test
+./test.py
+```
